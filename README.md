@@ -42,5 +42,20 @@
 ├── 1.0/    指纹测试.apk + 说明
 ├── 1.1/    添加 PIN/密码
 ├── ...
-└── 1.10/   锁的声音（最新）
+├── 1.10/   锁的声音（最新）
+├── 源码-java/    jadx 反编译的 Java 源码（可读）
+└── 源码-smali/   apktool 反编译的工程（可用 apktool 重新打包）
 ```
+
+## 关于源码
+
+本项目在手机上开发，原始工程不在身边，所以仓库里的源码是从最新版 APK（v1.10）反编译来的：
+
+- **源码-java/**：用 jadx 反编译成接近原始写法的 Java 代码，适合阅读和学习，主逻辑在 `sources/com/dudu/fingertest/FingerprintActivity.java`
+- **源码-smali/**：用 apktool 完整反编译的工程（AndroidManifest.xml + smali + 资源），可以用下面的命令重新打包成 APK：
+
+```bash
+apktool b 源码-smali -o rebuilt.apk
+```
+
+> 如果想看各版本的差异，可以对比不同版本 APK 反编译后的 `FingerprintActivity.smali`。

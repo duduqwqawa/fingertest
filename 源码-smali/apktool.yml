@@ -1,0 +1,21 @@
+version: 2.9.3
+apkFileName: b95a7639355f4d63ad0a52e63d939f1d.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+  minSdkVersion: 23
+  targetSdkVersion: 36
+packageInfo:
+  forcedPackageId: null
+  renameManifestPackage: null
+versionInfo:
+  versionCode: 11
+  versionName: 1.10
+resourcesAreCompressed: false
+sharedLibrary: false
+sparseResources: true
+doNotCompress:
+- mp3

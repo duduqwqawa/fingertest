@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA-256-Digest: ZRl2xgmvsw87sPzDYWFRkkAXElWyVp6pw1KGoTF0wYM=
+
+Name: assets/lock.mp3
+SHA-256-Digest: 6QEil6wCxMoNAE96EZOnS7IPCfasH6kgGZU4Vt/yBs0=
+
+Name: assets/unlock.mp3
+SHA-256-Digest: ZSkc+Oq57masC9YpgifgSPFZQFPob2Ge0IOtf0j4R+U=
+
+Name: classes.dex
+SHA-256-Digest: QuaCC6H0MM2jwF6Hq0hoYJA1eH3LahCu1kqyab6p7uc=
+
