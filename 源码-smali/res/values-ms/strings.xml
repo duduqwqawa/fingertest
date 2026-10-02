@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ujian Cap Jari</string>
+    <string name="btn_fingerprint">Cap jari</string>
+    <string name="btn_pin">Masukkan PIN / kata laluan</string>
+    <string name="btn_reset">Tetap semula (kembali ke kunci)</string>
+    <string name="cancel">Batal</string>
+    <string name="cancelled">Dibatalkan</string>
+    <string name="fail_status">Pengesahan gagal: %1$s</string>
+    <string name="fail_toast">Gagal: %1$s</string>
+    <string name="fp_desc">Hanya cap jari, tanpa PIN</string>
+    <string name="fp_hw_unavailable">Perkakasan cap jari tidak tersedia buat sementara, cuba lagi kemudian</string>
+    <string name="fp_no_enroll">Tiada cap jari didaftarkan. Sila daftar dalam tetapan dahulu</string>
+    <string name="fp_no_hw">Peranti ini tiada perkakasan cap jari</string>
+    <string name="fp_prompt_shown">Kotak dialog cap jari dipaparkan, letakkan jari pada penderia</string>
+    <string name="fp_subtitle">Letakkan jari anda pada penderia cap jari</string>
+    <string name="fp_title">Pengesahan cap jari</string>
+    <string name="fp_unavailable">Cap jari tidak tersedia (kod ralat %1$d)</string>
+    <string name="hint">Pilih satu kaedah, sistem akan menunjukkan kotak dialog yang sepadan</string>
+    <string name="no_fp_support">Peranti ini tidak menyokong pengecaman cap jari</string>
+    <string name="no_lock_msg">PIN / kata laluan skrin kunci belum ditetapkan. Sesetengah peranti tidak membenarkan penetapan kata laluan kunci. Sila semak dalam tetapan sistem sama ada boleh ditetapkan</string>
+    <string name="not_match">Cap jari tidak sepadan, cuba lagi</string>
+    <string name="pin_desc">Hanya PIN / kata laluan / corak, tanpa cap jari</string>
+    <string name="pin_prompt_shown">Kotak dialog PIN / kata laluan dipaparkan</string>
+    <string name="pin_subtitle">Gunakan kata laluan skrin kunci</string>
+    <string name="pin_title">Masukkan PIN / kata laluan</string>
+    <string name="reset_done">Ditetap semula kepada kunci. Sila sahkan semula</string>
+    <string name="success_status">Pengesahan berjaya ✔ Dibuka kunci</string>
+    <string name="success_toast">Pengesahan berjaya, kunci dibuka</string>
+    <string name="title">Ujian Pengesahan</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test amprentă</string>
+    <string name="btn_fingerprint">Amprentă</string>
+    <string name="btn_pin">Introduceți PIN / parola</string>
+    <string name="btn_reset">Resetare (înapoi la blocare)</string>
+    <string name="cancel">Anulare</string>
+    <string name="cancelled">Anulat</string>
+    <string name="fail_status">Verificare eșuată: %1$s</string>
+    <string name="fail_toast">Eșuat: %1$s</string>
+    <string name="fp_desc">Doar amprentă, fără PIN</string>
+    <string name="fp_hw_unavailable">Hardware-ul de amprente este temporar indisponibil, încercați mai târziu</string>
+    <string name="fp_no_enroll">Nicio amprentă înregistrată. Înregistrați una mai întâi în setări</string>
+    <string name="fp_no_hw">Acest dispozitiv nu are hardware de amprentă</string>
+    <string name="fp_prompt_shown">Fereastra de amprentă afișată, plasați degetul pe senzor</string>
+    <string name="fp_subtitle">Plasați degetul pe senzorul de amprente</string>
+    <string name="fp_title">Verificare amprentă</string>
+    <string name="fp_unavailable">Amprenta nu este disponibilă (cod eroare %1$d)</string>
+    <string name="hint">Alegeți o metodă, sistemul va afișa fereastra corespunzătoare</string>
+    <string name="no_fp_support">Acest dispozitiv nu acceptă recunoașterea amprentelor</string>
+    <string name="no_lock_msg">Nu este setat PIN / parolă de blocare. Unele dispozitive nu permit setarea parolei de blocare. Verificați în setările de sistem dacă poate fi setată</string>
+    <string name="not_match">Amprenta nu se potrivește, încercați din nou</string>
+    <string name="pin_desc">Doar PIN / parolă / model, fără amprentă</string>
+    <string name="pin_prompt_shown">Fereastra PIN / parolă afișată</string>
+    <string name="pin_subtitle">Utilizați parola ecranului de blocare</string>
+    <string name="pin_title">Introduceți PIN / parola</string>
+    <string name="reset_done">Resetat la blocat. Verificați din nou</string>
+    <string name="success_status">Verificare reușită ✔ Deblocat</string>
+    <string name="success_toast">Verificare reușită, deblocat</string>
+    <string name="title">Test de verificare</string>
+</resources>

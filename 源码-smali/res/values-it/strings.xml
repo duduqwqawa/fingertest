@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test impronta</string>
+    <string name="btn_fingerprint">Impronta digitale</string>
+    <string name="btn_pin">Inserisci PIN / password</string>
+    <string name="btn_reset">Reimposta (torna al blocco)</string>
+    <string name="cancel">Annulla</string>
+    <string name="cancelled">Annullato</string>
+    <string name="fail_status">Verifica fallita: %1$s</string>
+    <string name="fail_toast">Fallito: %1$s</string>
+    <string name="fp_desc">Solo impronta, niente PIN</string>
+    <string name="fp_hw_unavailable">Hardware per impronte temporaneamente non disponibile, riprova più tardi</string>
+    <string name="fp_no_enroll">Nessuna impronta registrata. Registrane una nelle impostazioni</string>
+    <string name="fp_no_hw">Questo dispositivo non ha hardware per le impronte</string>
+    <string name="fp_prompt_shown">Finestra impronta mostrata, posiziona il dito sul sensore</string>
+    <string name="fp_subtitle">Posiziona il dito sul sensore di impronte</string>
+    <string name="fp_title">Verifica impronta</string>
+    <string name="fp_unavailable">Impronta non disponibile (codice errore %1$d)</string>
+    <string name="hint">Scegli un metodo, il sistema mostrerà la finestra corrispondente</string>
+    <string name="no_fp_support">Questo dispositivo non supporta il riconoscimento delle impronte</string>
+    <string name="no_lock_msg">Nessun PIN / password di blocco impostato. Alcuni dispositivi non consentono di impostare la password di blocco. Controlla nelle impostazioni di sistema se è possibile impostarla</string>
+    <string name="not_match">"L'impronta non corrisponde, riprova"</string>
+    <string name="pin_desc">Solo PIN / password / sequenza, niente impronta</string>
+    <string name="pin_prompt_shown">Finestra PIN / password mostrata</string>
+    <string name="pin_subtitle">Usa la password dello schermo di blocco</string>
+    <string name="pin_title">Inserisci PIN / password</string>
+    <string name="reset_done">Reimpostato a bloccato. Verifica di nuovo</string>
+    <string name="success_status">Verifica riuscita ✔ Sbloccato</string>
+    <string name="success_toast">Verifica riuscita, sbloccato</string>
+    <string name="title">Test di verifica</string>
+</resources>

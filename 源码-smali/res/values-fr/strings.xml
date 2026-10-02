@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Test d'empreinte"</string>
+    <string name="btn_fingerprint">Empreinte digitale</string>
+    <string name="btn_pin">Saisir PIN / mot de passe</string>
+    <string name="btn_reset">Réinitialiser (retour au verrouillage)</string>
+    <string name="cancel">Annuler</string>
+    <string name="cancelled">Annulé</string>
+    <string name="fail_status">Échec de la vérification : %1$s</string>
+    <string name="fail_toast">Échec : %1$s</string>
+    <string name="fp_desc">Empreinte uniquement, pas de PIN</string>
+    <string name="fp_hw_unavailable">"Le capteur d'empreintes est temporairement indisponible, réessayez plus tard"</string>
+    <string name="fp_no_enroll">Aucune empreinte enregistrée. Veuillez en enregistrer une dans les réglages</string>
+    <string name="fp_no_hw">"Cet appareil n'a pas de capteur d'empreintes"</string>
+    <string name="fp_prompt_shown">"Boîte de dialogue d'empreinte affichée, placez votre doigt sur le capteur"</string>
+    <string name="fp_subtitle">"Placez votre doigt sur le capteur d'empreintes"</string>
+    <string name="fp_title">Vérification par empreinte</string>
+    <string name="fp_unavailable">"Empreinte indisponible (code d'erreur %1$d)"</string>
+    <string name="hint">Choisissez une méthode, le système affichera la boîte de dialogue correspondante</string>
+    <string name="no_fp_support">"Cet appareil ne prend pas en charge la reconnaissance d'empreintes"</string>
+    <string name="no_lock_msg">"Aucun PIN / mot de passe d'écran de verrouillage n'est défini. Certains appareils ne permettent pas de définir un mot de passe de verrouillage. Vérifiez dans les réglages système s'il est possible d'en définir un"</string>
+    <string name="not_match">"L'empreinte ne correspond pas, réessayez"</string>
+    <string name="pin_desc">"PIN / mot de passe / schéma uniquement, pas d'empreinte"</string>
+    <string name="pin_prompt_shown">Boîte de dialogue PIN / mot de passe affichée</string>
+    <string name="pin_subtitle">"Utiliser le mot de passe de l'écran de verrouillage"</string>
+    <string name="pin_title">Saisir PIN / mot de passe</string>
+    <string name="reset_done">"Remis à l'état verrouillé. Veuillez vérifier à nouveau"</string>
+    <string name="success_status">Vérification réussie ✔ Déverrouillé</string>
+    <string name="success_toast">Vérification réussie, déverrouillé</string>
+    <string name="title">Test de vérification</string>
+</resources>

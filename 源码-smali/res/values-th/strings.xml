@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ทดสอบลายนิ้วมือ</string>
+    <string name="btn_fingerprint">ลายนิ้วมือ</string>
+    <string name="btn_pin">กรอก PIN / รหัสผ่าน</string>
+    <string name="btn_reset">รีเซ็ต (กลับไปล็อก)</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="cancelled">ยกเลิกแล้ว</string>
+    <string name="fail_status">การยืนยันล้มเหลว: %1$s</string>
+    <string name="fail_toast">ล้มเหลว: %1$s</string>
+    <string name="fp_desc">ใช้เฉพาะลายนิ้วมือ ไม่ใช้ PIN</string>
+    <string name="fp_hw_unavailable">ฮาร์ดแวร์ลายนิ้วมือไม่พร้อมใช้งานชั่วคราว โปรดลองอีกครั้งในภายหลัง</string>
+    <string name="fp_no_enroll">ยังไม่ได้ลงทะเบียนลายนิ้วมือ กรุณาลงทะเบียนในการตั้งค่าก่อน</string>
+    <string name="fp_no_hw">อุปกรณ์นี้ไม่มีฮาร์ดแวร์ลายนิ้วมือ</string>
+    <string name="fp_prompt_shown">แสดงหน้าต่างลายนิ้วมือแล้ว วางนิ้วบนเซนเซอร์</string>
+    <string name="fp_subtitle">วางนิ้วบนเซนเซอร์ลายนิ้วมือ</string>
+    <string name="fp_title">ยืนยันด้วยลายนิ้วมือ</string>
+    <string name="fp_unavailable">ลายนิ้วมือไม่พร้อมใช้งาน (รหัสข้อผิดพลาด %1$d)</string>
+    <string name="hint">เลือกวิธีการ ระบบจะแสดงหน้าต่างที่เกี่ยวข้อง</string>
+    <string name="no_fp_support">อุปกรณ์นี้ไม่รองรับการจดจำลายนิ้วมือ</string>
+    <string name="no_lock_msg">ยังไม่ได้ตั้ง PIN / รหัสผ่านหน้าจอล็อก บางอุปกรณ์ไม่อนุญาตให้ตั้งรหัสผ่านล็อก โปรดตรวจสอบในการตั้งค่าระบบว่าสามารถตั้งได้หรือไม่</string>
+    <string name="not_match">ลายนิ้วมือไม่ตรงกัน ลองอีกครั้ง</string>
+    <string name="pin_desc">ใช้เฉพาะ PIN / รหัสผ่าน / รูปแบบ ไม่ใช้ลายนิ้วมือ</string>
+    <string name="pin_prompt_shown">แสดงหน้าต่าง PIN / รหัสผ่านแล้ว</string>
+    <string name="pin_subtitle">ใช้รหัสผ่านหน้าจอล็อกของเครื่อง</string>
+    <string name="pin_title">กรอก PIN / รหัสผ่าน</string>
+    <string name="reset_done">รีเซ็ตเป็นล็อกแล้ว โปรดยืนยันอีกครั้ง</string>
+    <string name="success_status">ยืนยันสำเร็จ ✔ ปลดล็อกแล้ว</string>
+    <string name="success_toast">ยืนยันสำเร็จ ปลดล็อกแล้ว</string>
+    <string name="title">ทดสอบการยืนยัน</string>
+</resources>

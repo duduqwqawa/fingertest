@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">फ़िंगरप्रिंट टेस्ट</string>
+    <string name="btn_fingerprint">फ़िंगरप्रिंट</string>
+    <string name="btn_pin">PIN / पासवर्ड दर्ज करें</string>
+    <string name="btn_reset">रीसेट करें (लॉक पर वापस)</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="cancelled">रद्द किया गया</string>
+    <string name="fail_status">सत्यापन विफल: %1$s</string>
+    <string name="fail_toast">विफल: %1$s</string>
+    <string name="fp_desc">केवल फ़िंगरप्रिंट, PIN नहीं</string>
+    <string name="fp_hw_unavailable">फ़िंगरप्रिंट हार्डवेयर अस्थायी रूप से उपलब्ध नहीं, बाद में पुनः प्रयास करें</string>
+    <string name="fp_no_enroll">कोई फ़िंगरप्रिंट पंजीकृत नहीं। कृपया पहले सेटिंग्स में पंजीकृत करें</string>
+    <string name="fp_no_hw">इस डिवाइस में फ़िंगरप्रिंट हार्डवेयर नहीं है</string>
+    <string name="fp_prompt_shown">फ़िंगरप्रिंट डायलॉग दिखाया गया, सेंसर पर उंगली रखें</string>
+    <string name="fp_subtitle">अपनी उंगली फ़िंगरप्रिंट सेंसर पर रखें</string>
+    <string name="fp_title">फ़िंगरप्रिंट सत्यापन</string>
+    <string name="fp_unavailable">फ़िंगरप्रिंट उपलब्ध नहीं (त्रुटि कोड %1$d)</string>
+    <string name="hint">कोई तरीका चुनें, सिस्टम संबंधित डायलॉग दिखाएगा</string>
+    <string name="no_fp_support">यह डिवाइस फ़िंगरप्रिंट पहचान का समर्थन नहीं करता</string>
+    <string name="no_lock_msg">लॉक स्क्रीन PIN / पासवर्ड सेट नहीं है। कुछ डिवाइस लॉक पासवर्ड सेट करने की अनुमति नहीं देते। सिस्टम सेटिंग्स में जाँचें कि क्या सेट किया जा सकता है</string>
+    <string name="not_match">फ़िंगरप्रिंट मेल नहीं खाता, फिर से प्रयास करें</string>
+    <string name="pin_desc">केवल PIN / पासवर्ड / पैटर्न, फ़िंगरप्रिंट नहीं</string>
+    <string name="pin_prompt_shown">PIN / पासवर्ड डायलॉग दिखाया गया</string>
+    <string name="pin_subtitle">डिवाइस का लॉक स्क्रीन पासवर्ड उपयोग करें</string>
+    <string name="pin_title">PIN / पासवर्ड दर्ज करें</string>
+    <string name="reset_done">लॉक पर रीसेट किया गया। कृपया फिर से सत्यापित करें</string>
+    <string name="success_status">सत्यापन सफल ✔ अनलॉक हुआ</string>
+    <string name="success_toast">सत्यापन सफल, अनलॉक हुआ</string>
+    <string name="title">सत्यापन टेस्ट</string>
+</resources>

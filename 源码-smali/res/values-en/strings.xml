@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fingerprint Test</string>
+    <string name="btn_fingerprint">Fingerprint</string>
+    <string name="btn_pin">Enter PIN / Password</string>
+    <string name="btn_reset">Reset (Back to locked)</string>
+    <string name="cancel">Cancel</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="fail_status">Verification failed: %1$s</string>
+    <string name="fail_toast">Failed: %1$s</string>
+    <string name="fp_desc">Fingerprint only, no PIN</string>
+    <string name="fp_hw_unavailable">Fingerprint hardware is temporarily unavailable, try again later</string>
+    <string name="fp_no_enroll">No fingerprint enrolled. Please enroll one in Settings first</string>
+    <string name="fp_no_hw">This device has no fingerprint hardware</string>
+    <string name="fp_prompt_shown">Fingerprint dialog shown, place your finger on the sensor</string>
+    <string name="fp_subtitle">Place your finger on the fingerprint sensor</string>
+    <string name="fp_title">Fingerprint verification</string>
+    <string name="fp_unavailable">Fingerprint unavailable (error code %1$d)</string>
+    <string name="hint">Choose a method, the system will show the matching dialog</string>
+    <string name="no_fp_support">This device does not support fingerprint recognition</string>
+    <string name="no_lock_msg">No lock screen PIN / Password is set. Some devices do not allow setting a lock screen password. Please check in system settings whether it can be set</string>
+    <string name="not_match">Fingerprint did not match, try again</string>
+    <string name="pin_desc">PIN / Password / Pattern only, no fingerprint</string>
+    <string name="pin_prompt_shown">PIN / Password dialog shown</string>
+    <string name="pin_subtitle">Use your device lock screen password</string>
+    <string name="pin_title">Enter PIN / Password</string>
+    <string name="reset_done">Reset to locked. Please verify again</string>
+    <string name="success_status">Verification succeeded ✔ Unlocked</string>
+    <string name="success_toast">Verification succeeded, unlocked</string>
+    <string name="title">Verification Test</string>
+</resources>

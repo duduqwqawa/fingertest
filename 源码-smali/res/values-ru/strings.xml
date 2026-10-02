@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Тест отпечатка пальца</string>
+    <string name="btn_fingerprint">Отпечаток пальца</string>
+    <string name="btn_pin">Ввести PIN / пароль</string>
+    <string name="btn_reset">Сбросить (вернуть к блокировке)</string>
+    <string name="cancel">Отмена</string>
+    <string name="cancelled">Отменено</string>
+    <string name="fail_status">Проверка не удалась: %1$s</string>
+    <string name="fail_toast">Ошибка: %1$s</string>
+    <string name="fp_desc">Только отпечаток, без PIN</string>
+    <string name="fp_hw_unavailable">Датчик отпечатков временно недоступен, попробуйте позже</string>
+    <string name="fp_no_enroll">Отпечаток не зарегистрирован. Сначала зарегистрируйте его в настройках</string>
+    <string name="fp_no_hw">На этом устройстве нет датчика отпечатков</string>
+    <string name="fp_prompt_shown">Окно отпечатка показано, приложите палец к датчику</string>
+    <string name="fp_subtitle">Приложите палец к датчику отпечатков</string>
+    <string name="fp_title">Проверка отпечатка</string>
+    <string name="fp_unavailable">Отпечаток недоступен (код ошибки %1$d)</string>
+    <string name="hint">Выберите способ, система покажет соответствующее окно</string>
+    <string name="no_fp_support">Это устройство не поддерживает распознавание отпечатков</string>
+    <string name="no_lock_msg">Пароль / PIN экрана блокировки не задан. Некоторые устройства не позволяют задавать пароль блокировки. Проверьте в системных настройках, можно ли его задать</string>
+    <string name="not_match">Отпечаток не совпал, попробуйте ещё раз</string>
+    <string name="pin_desc">Только PIN / пароль / графический ключ, без отпечатка</string>
+    <string name="pin_prompt_shown">Окно ввода PIN / пароля показано</string>
+    <string name="pin_subtitle">Использовать пароль экрана блокировки</string>
+    <string name="pin_title">Введите PIN / пароль</string>
+    <string name="reset_done">Сброшено к блокировке. Проверьте ещё раз</string>
+    <string name="success_status">Проверка успешна ✔ Разблокировано</string>
+    <string name="success_toast">Проверка успешна, устройство разблокировано</string>
+    <string name="title">Тест проверки</string>
+</resources>

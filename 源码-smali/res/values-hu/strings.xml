@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ujjlenyomat-teszt</string>
+    <string name="btn_fingerprint">Ujjlenyomat</string>
+    <string name="btn_pin">PIN / jelszó megadása</string>
+    <string name="btn_reset">Alaphelyzetbe állítás (vissza a zároláshoz)</string>
+    <string name="cancel">Mégse</string>
+    <string name="cancelled">Mégse</string>
+    <string name="fail_status">Ellenőrzés sikertelen: %1$s</string>
+    <string name="fail_toast">Sikertelen: %1$s</string>
+    <string name="fp_desc">Csak ujjlenyomat, PIN nélkül</string>
+    <string name="fp_hw_unavailable">Az ujjlenyomat-hardver átmenetileg nem érhető el, próbálja újra később</string>
+    <string name="fp_no_enroll">Nincs regisztrált ujjlenyomat. Először regisztráljon egyet a beállításokban</string>
+    <string name="fp_no_hw">Ezen az eszközön nincs ujjlenyomat-hardver</string>
+    <string name="fp_prompt_shown">Ujjlenyomat-ablak megjelent, helyezze ujját az olvasóra</string>
+    <string name="fp_subtitle">Helyezze ujját az ujjlenyomat-olvasóra</string>
+    <string name="fp_title">Ujjlenyomat-ellenőrzés</string>
+    <string name="fp_unavailable">Ujjlenyomat nem érhető el (hibakód %1$d)</string>
+    <string name="hint">Válasszon módszert, a rendszer a megfelelő ablakot jeleníti meg</string>
+    <string name="no_fp_support">Ez az eszköz nem támogatja az ujjlenyomat-felismerést</string>
+    <string name="no_lock_msg">Nincs beállítva zárolási PIN / jelszó. Egyes eszközök nem engedélyezik a zárolási jelszó beállítását. Ellenőrizze a rendszerbeállításokban, hogy beállítható-e</string>
+    <string name="not_match">Az ujjlenyomat nem egyezik, próbálja újra</string>
+    <string name="pin_desc">Csak PIN / jelszó / minta, ujjlenyomat nélkül</string>
+    <string name="pin_prompt_shown">PIN / jelszó ablak megjelent</string>
+    <string name="pin_subtitle">Az eszköz zárolási képernyőjelszava</string>
+    <string name="pin_title">Adja meg a PIN / jelszót</string>
+    <string name="reset_done">Zárolt állapotba visszaállítva. Ellenőrizze újra</string>
+    <string name="success_status">Ellenőrzés sikeres ✔ Feloldva</string>
+    <string name="success_toast">Ellenőrzés sikeres, feloldva</string>
+    <string name="title">Ellenőrzési teszt</string>
+</resources>

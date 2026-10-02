@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kiểm tra vân tay</string>
+    <string name="btn_fingerprint">Vân tay</string>
+    <string name="btn_pin">Nhập PIN / mật khẩu</string>
+    <string name="btn_reset">Đặt lại (trở về khóa)</string>
+    <string name="cancel">Hủy</string>
+    <string name="cancelled">Đã hủy</string>
+    <string name="fail_status">Xác minh thất bại: %1$s</string>
+    <string name="fail_toast">Thất bại: %1$s</string>
+    <string name="fp_desc">Chỉ dùng vân tay, không dùng PIN</string>
+    <string name="fp_hw_unavailable">Phần cứng vân tay tạm thời không khả dụng, vui lòng thử lại sau</string>
+    <string name="fp_no_enroll">Chưa đăng ký vân tay. Vui lòng đăng ký trong cài đặt trước</string>
+    <string name="fp_no_hw">Thiết bị này không có phần cứng vân tay</string>
+    <string name="fp_prompt_shown">Đã hiển thị hộp thoại vân tay, đặt ngón tay lên cảm biến</string>
+    <string name="fp_subtitle">Đặt ngón tay lên cảm biến vân tay</string>
+    <string name="fp_title">Xác minh vân tay</string>
+    <string name="fp_unavailable">Vân tay không khả dụng (mã lỗi %1$d)</string>
+    <string name="hint">Chọn một phương thức, hệ thống sẽ hiển thị hộp thoại tương ứng</string>
+    <string name="no_fp_support">Thiết bị này không hỗ trợ nhận dạng vân tay</string>
+    <string name="no_lock_msg">Chưa đặt PIN / mật khẩu màn hình khóa. Một số thiết bị không cho phép đặt mật khẩu khóa. Vui lòng kiểm tra trong cài đặt hệ thống xem có thể đặt được không</string>
+    <string name="not_match">Vân tay không khớp, thử lại</string>
+    <string name="pin_desc">Chỉ dùng PIN / mật khẩu / hình vẽ, không dùng vân tay</string>
+    <string name="pin_prompt_shown">Đã hiển thị hộp thoại PIN / mật khẩu</string>
+    <string name="pin_subtitle">Dùng mật khẩu màn hình khóa</string>
+    <string name="pin_title">Nhập PIN / mật khẩu</string>
+    <string name="reset_done">Đã đặt lại về trạng thái khóa. Vui lòng xác minh lại</string>
+    <string name="success_status">Xác minh thành công ✔ Đã mở khóa</string>
+    <string name="success_toast">Xác minh thành công, đã mở khóa</string>
+    <string name="title">Kiểm tra xác minh</string>
+</resources>

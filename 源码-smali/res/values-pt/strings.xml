@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Teste de impressão digital</string>
+    <string name="btn_fingerprint">Impressão digital</string>
+    <string name="btn_pin">Digitar PIN / senha</string>
+    <string name="btn_reset">Redefinir (voltar ao bloqueio)</string>
+    <string name="cancel">Cancelar</string>
+    <string name="cancelled">Cancelado</string>
+    <string name="fail_status">Verificação falhou: %1$s</string>
+    <string name="fail_toast">Falhou: %1$s</string>
+    <string name="fp_desc">Apenas impressão digital, sem PIN</string>
+    <string name="fp_hw_unavailable">O hardware de impressão digital está temporariamente indisponível, tente novamente mais tarde</string>
+    <string name="fp_no_enroll">Nenhuma impressão digital registrada. Registre uma nas configurações primeiro</string>
+    <string name="fp_no_hw">Este dispositivo não possui hardware de impressão digital</string>
+    <string name="fp_prompt_shown">Caixa de diálogo de impressão digital exibida, coloque o dedo no sensor</string>
+    <string name="fp_subtitle">Coloque o dedo no sensor de impressão digital</string>
+    <string name="fp_title">Verificação de impressão digital</string>
+    <string name="fp_unavailable">Impressão digital indisponível (código de erro %1$d)</string>
+    <string name="hint">Escolha um método, o sistema mostrará a caixa de diálogo correspondente</string>
+    <string name="no_fp_support">Este dispositivo não suporta reconhecimento de impressão digital</string>
+    <string name="no_lock_msg">Nenhum PIN / senha de bloqueio definido. Alguns dispositivos não permitem definir senha de bloqueio. Verifique nas configurações do sistema se é possível definir</string>
+    <string name="not_match">A impressão digital não corresponde, tente novamente</string>
+    <string name="pin_desc">Apenas PIN / senha / padrão, sem impressão digital</string>
+    <string name="pin_prompt_shown">Caixa de diálogo de PIN / senha exibida</string>
+    <string name="pin_subtitle">Usar a senha da tela de bloqueio</string>
+    <string name="pin_title">Digitar PIN / senha</string>
+    <string name="reset_done">Redefinido para bloqueado. Verifique novamente</string>
+    <string name="success_status">Verificação bem-sucedida ✔ Desbloqueado</string>
+    <string name="success_toast">Verificação bem-sucedida, desbloqueado</string>
+    <string name="title">Teste de verificação</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prueba de huella</string>
+    <string name="btn_fingerprint">Huella dactilar</string>
+    <string name="btn_pin">Introducir PIN / contraseña</string>
+    <string name="btn_reset">Restablecer (volver a bloquear)</string>
+    <string name="cancel">Cancelar</string>
+    <string name="cancelled">Cancelado</string>
+    <string name="fail_status">Verificación fallida: %1$s</string>
+    <string name="fail_toast">Falló: %1$s</string>
+    <string name="fp_desc">Solo huella, sin PIN</string>
+    <string name="fp_hw_unavailable">El hardware de huellas no está disponible temporalmente, inténtalo más tarde</string>
+    <string name="fp_no_enroll">No hay huella registrada. Regístrala primero en los ajustes</string>
+    <string name="fp_no_hw">Este dispositivo no tiene hardware de huellas</string>
+    <string name="fp_prompt_shown">Diálogo de huella mostrado, coloca tu dedo en el sensor</string>
+    <string name="fp_subtitle">Coloca tu dedo en el sensor de huellas</string>
+    <string name="fp_title">Verificación de huella</string>
+    <string name="fp_unavailable">Huella no disponible (código de error %1$d)</string>
+    <string name="hint">Elige un método, el sistema mostrará el diálogo correspondiente</string>
+    <string name="no_fp_support">Este dispositivo no admite el reconocimiento de huellas</string>
+    <string name="no_lock_msg">No se ha establecido PIN / contraseña de bloqueo. Algunos dispositivos no permiten establecer contraseña de bloqueo. Comprueba en los ajustes del sistema si se puede establecer</string>
+    <string name="not_match">La huella no coincide, inténtalo de nuevo</string>
+    <string name="pin_desc">Solo PIN / contraseña / patrón, sin huella</string>
+    <string name="pin_prompt_shown">Diálogo de PIN / contraseña mostrado</string>
+    <string name="pin_subtitle">Usar la contraseña de la pantalla de bloqueo</string>
+    <string name="pin_title">Introducir PIN / contraseña</string>
+    <string name="reset_done">Restablecido a bloqueado. Verifica de nuevo</string>
+    <string name="success_status">Verificación exitosa ✔ Desbloqueado</string>
+    <string name="success_toast">Verificación exitosa, desbloqueado</string>
+    <string name="title">Prueba de verificación</string>
+</resources>

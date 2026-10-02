@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test otisku prstu</string>
+    <string name="btn_fingerprint">Otisky prstů</string>
+    <string name="btn_pin">Zadat PIN / heslo</string>
+    <string name="btn_reset">Resetovat (zpět k zámku)</string>
+    <string name="cancel">Zrušit</string>
+    <string name="cancelled">Zrušeno</string>
+    <string name="fail_status">Ověření se nezdařilo: %1$s</string>
+    <string name="fail_toast">Selhání: %1$s</string>
+    <string name="fp_desc">Pouze otisk, bez PIN</string>
+    <string name="fp_hw_unavailable">Senzor otisků je dočasně nedostupný, zkuste to později</string>
+    <string name="fp_no_enroll">Žádný otisk není zaregistrován. Nejprve ho zaregistrujte v nastavení</string>
+    <string name="fp_no_hw">Toto zařízení nemá senzor otisků</string>
+    <string name="fp_prompt_shown">Dialog otisku zobrazen, položte prst na senzor</string>
+    <string name="fp_subtitle">Položte prst na senzor otisků</string>
+    <string name="fp_title">Ověření otiskem</string>
+    <string name="fp_unavailable">Otisky nejsou dostupné (kód chyby %1$d)</string>
+    <string name="hint">Vyberte metodu, systém zobrazí odpovídající dialog</string>
+    <string name="no_fp_support">Toto zařízení nepodporuje rozpoznávání otisků prstů</string>
+    <string name="no_lock_msg">Nenastaven PIN / heslo zámku. Některá zařízení neumožňují nastavit heslo zámku. Zkontrolujte v systémovém nastavení, zda jej lze nastavit</string>
+    <string name="not_match">Otisky se neshodují, zkuste znovu</string>
+    <string name="pin_desc">Pouze PIN / heslo / vzor, bez otisku</string>
+    <string name="pin_prompt_shown">Dialog PIN / hesla zobrazen</string>
+    <string name="pin_subtitle">Použít heslo zamykací obrazovky</string>
+    <string name="pin_title">Zadejte PIN / heslo</string>
+    <string name="reset_done">Resetováno na zamčeno. Ověřte znovu</string>
+    <string name="success_status">Ověření úspěšné ✔ Odemčeno</string>
+    <string name="success_toast">Ověření úspěšné, odemčeno</string>
+    <string name="title">Test ověření</string>
+</resources>

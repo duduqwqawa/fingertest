@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test odcisku palca</string>
+    <string name="btn_fingerprint">Odcisk palca</string>
+    <string name="btn_pin">Wprowadź PIN / hasło</string>
+    <string name="btn_reset">Resetuj (wróć do blokady)</string>
+    <string name="cancel">Anuluj</string>
+    <string name="cancelled">Anulowano</string>
+    <string name="fail_status">Weryfikacja nie powiodła się: %1$s</string>
+    <string name="fail_toast">Niepowodzenie: %1$s</string>
+    <string name="fp_desc">Tylko odcisk palca, bez PIN</string>
+    <string name="fp_hw_unavailable">Czytnik odcisków tymczasowo niedostępny, spróbuj później</string>
+    <string name="fp_no_enroll">Brak zarejestrowanego odcisku. Najpierw zarejestruj go w ustawieniach</string>
+    <string name="fp_no_hw">To urządzenie nie ma czytnika odcisków</string>
+    <string name="fp_prompt_shown">Okno odcisku wyświetlone, połóż palec na czytniku</string>
+    <string name="fp_subtitle">Połóż palec na czytniku odcisków</string>
+    <string name="fp_title">Weryfikacja odciskiem</string>
+    <string name="fp_unavailable">Odcisk niedostępny (kod błędu %1$d)</string>
+    <string name="hint">Wybierz metodę, system pokaże odpowiednie okno</string>
+    <string name="no_fp_support">To urządzenie nie obsługuje rozpoznawania odcisków palców</string>
+    <string name="no_lock_msg">Brak ustawionego PIN / hasła blokady. Niektóre urządzenia nie pozwalają ustawić hasła blokady. Sprawdź w ustawieniach systemowych, czy można je ustawić</string>
+    <string name="not_match">Odcisk nie pasuje, spróbuj ponownie</string>
+    <string name="pin_desc">Tylko PIN / hasło / wzór, bez odcisku</string>
+    <string name="pin_prompt_shown">Okno PIN / hasła wyświetlone</string>
+    <string name="pin_subtitle">Użyj hasła ekranu blokady</string>
+    <string name="pin_title">Wprowadź PIN / hasło</string>
+    <string name="reset_done">Zresetowano do blokady. Zweryfikuj ponownie</string>
+    <string name="success_status">Weryfikacja pomyślna ✔ Odblokowano</string>
+    <string name="success_toast">Weryfikacja pomyślna, odblokowano</string>
+    <string name="title">Test weryfikacji</string>
+</resources>

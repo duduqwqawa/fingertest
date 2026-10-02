@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 
 Name: AndroidManifest.xml
-SHA-256-Digest: ZRl2xgmvsw87sPzDYWFRkkAXElWyVp6pw1KGoTF0wYM=
+SHA-256-Digest: LEmGFHPAZ+7AMM2oBpffMeE6fJ7+d+HBV7Ml4v6CbRQ=
 
 Name: assets/lock.mp3
 SHA-256-Digest: 6QEil6wCxMoNAE96EZOnS7IPCfasH6kgGZU4Vt/yBs0=
@@ -10,5 +10,8 @@ Name: assets/unlock.mp3
 SHA-256-Digest: ZSkc+Oq57masC9YpgifgSPFZQFPob2Ge0IOtf0j4R+U=
 
 Name: classes.dex
-SHA-256-Digest: QuaCC6H0MM2jwF6Hq0hoYJA1eH3LahCu1kqyab6p7uc=
+SHA-256-Digest: r9KFkB63ezEjgXdLbYXLyUebBO2aD/BUE5QpmEfJy2E=
+
+Name: resources.arsc
+SHA-256-Digest: /oq/4iBIbMPl0QyOuuYXq0+ihfhbLEnaljHNL/haFh4=
 

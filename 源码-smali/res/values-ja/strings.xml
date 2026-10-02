@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">フィンガープリントテスト</string>
+    <string name="btn_fingerprint">指紋認証</string>
+    <string name="btn_pin">PIN / パスワードを入力</string>
+    <string name="btn_reset">リセット（ロック状態に戻す）</string>
+    <string name="cancel">キャンセル</string>
+    <string name="cancelled">キャンセルしました</string>
+    <string name="fail_status">認証に失敗しました: %1$s</string>
+    <string name="fail_toast">失敗: %1$s</string>
+    <string name="fp_desc">指紋のみ使用（PIN は使用しません）</string>
+    <string name="fp_hw_unavailable">指紋センサーが一時的に利用できません。しばらくしてからお試しください</string>
+    <string name="fp_no_enroll">指紋が登録されていません。先に設定で登録してください</string>
+    <string name="fp_no_hw">この端末には指紋センサーがありません</string>
+    <string name="fp_prompt_shown">指紋認証画面を表示しました。センサーに指を置いてください</string>
+    <string name="fp_subtitle">指紋センサーに指を置いてください</string>
+    <string name="fp_title">指紋認証</string>
+    <string name="fp_unavailable">指紋認証を利用できません（エラーコード %1$d）</string>
+    <string name="hint">方式を選ぶと、システムが対応する認証画面を表示します</string>
+    <string name="no_fp_support">この端末は指紋認証に対応していません</string>
+    <string name="no_lock_msg">ロック画面の PIN / パスワードが設定されていません。一部の端末ではロック画面パスワードの設定ができない場合があります。システム設定で設定できるか確認してください</string>
+    <string name="not_match">指紋が一致しません。もう一度お試しください</string>
+    <string name="pin_desc">PIN / パスワード / パターンのみ（指紋は使用しません）</string>
+    <string name="pin_prompt_shown">PIN / パスワード入力画面を表示しました</string>
+    <string name="pin_subtitle">端末のロック画面パスワードを使用</string>
+    <string name="pin_title">PIN / パスワードを入力</string>
+    <string name="reset_done">ロック状態にリセットしました。再度認証してください</string>
+    <string name="success_status">認証成功 ✔ ロック解除しました</string>
+    <string name="success_toast">認証に成功し、ロックを解除しました</string>
+    <string name="title">認証テスト</string>
+</resources>

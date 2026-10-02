@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vingerafdruktest</string>
+    <string name="btn_fingerprint">Vingerafdruk</string>
+    <string name="btn_pin">PIN / wachtwoord invoeren</string>
+    <string name="btn_reset">Resetten (terug naar vergrendeld)</string>
+    <string name="cancel">Annuleren</string>
+    <string name="cancelled">Geannuleerd</string>
+    <string name="fail_status">Verificatie mislukt: %1$s</string>
+    <string name="fail_toast">Mislukt: %1$s</string>
+    <string name="fp_desc">Alleen vingerafdruk, geen PIN</string>
+    <string name="fp_hw_unavailable">Vingerafdrukhardware tijdelijk niet beschikbaar, probeer het later opnieuw</string>
+    <string name="fp_no_enroll">Geen vingerafdruk geregistreerd. Registreer er eerst een in de instellingen</string>
+    <string name="fp_no_hw">Dit apparaat heeft geen vingerafdrukhardware</string>
+    <string name="fp_prompt_shown">Vingerafdrukvenster getoond, plaats uw vinger op de sensor</string>
+    <string name="fp_subtitle">Plaats uw vinger op de vingerafdruksensor</string>
+    <string name="fp_title">Vingerafdrukverificatie</string>
+    <string name="fp_unavailable">Vingerafdruk niet beschikbaar (foutcode %1$d)</string>
+    <string name="hint">Kies een methode, het systeem toont het bijbehorende dialoogvenster</string>
+    <string name="no_fp_support">Dit apparaat ondersteunt geen vingerafdrukherkenning</string>
+    <string name="no_lock_msg">Geen vergrendel-PIN / wachtwoord ingesteld. Sommige apparaten staan het instellen van een vergrendelwachtwoord niet toe. Controleer in de systeeminstellingen of het ingesteld kan worden</string>
+    <string name="not_match">Vingerafdruk komt niet overeen, probeer opnieuw</string>
+    <string name="pin_desc">Alleen PIN / wachtwoord / patroon, geen vingerafdruk</string>
+    <string name="pin_prompt_shown">PIN / wachtwoordvenster getoond</string>
+    <string name="pin_subtitle">Gebruik het wachtwoord van het vergrendelscherm</string>
+    <string name="pin_title">PIN / wachtwoord invoeren</string>
+    <string name="reset_done">Teruggezet naar vergrendeld. Verifieer opnieuw</string>
+    <string name="success_status">Verificatie geslaagd ✔ Ontgrendeld</string>
+    <string name="success_toast">Verificatie geslaagd, ontgrendeld</string>
+    <string name="title">Verificatietest</string>
+</resources>

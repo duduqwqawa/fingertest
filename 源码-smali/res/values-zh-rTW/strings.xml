@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">指紋測試</string>
+    <string name="btn_fingerprint">指紋驗證</string>
+    <string name="btn_pin">輸入 PIN / 密碼</string>
+    <string name="btn_reset">重置（回到未解鎖）</string>
+    <string name="cancel">取消</string>
+    <string name="cancelled">已取消</string>
+    <string name="fail_status">驗證失敗：%1$s</string>
+    <string name="fail_toast">失敗：%1$s</string>
+    <string name="fp_desc">僅使用指紋，不使用 PIN</string>
+    <string name="fp_hw_unavailable">指紋硬體暫時無法使用，請稍後再試</string>
+    <string name="fp_no_enroll">尚未錄入指紋，請先在設定中錄入</string>
+    <string name="fp_no_hw">此裝置沒有指紋硬體</string>
+    <string name="fp_prompt_shown">已喚起指紋視窗，請將手指放到感應器上</string>
+    <string name="fp_subtitle">請將手指放到指紋感應器上</string>
+    <string name="fp_title">指紋驗證</string>
+    <string name="fp_unavailable">指紋無法使用（錯誤碼 %1$d）</string>
+    <string name="hint">選擇一種方式，系統會彈出對應的驗證視窗</string>
+    <string name="no_fp_support">此裝置不支援指紋辨識</string>
+    <string name="no_lock_msg">裝置未設定鎖定畫面 PIN / 密碼。部分裝置系統不允許設定鎖定密碼，請先在系統設定中檢查能否設定</string>
+    <string name="not_match">驗證不匹配，請再試一次</string>
+    <string name="pin_desc">僅使用 PIN / 密碼 / 圖形，不使用指紋</string>
+    <string name="pin_prompt_shown">已喚起 PIN / 密碼輸入視窗</string>
+    <string name="pin_subtitle">使用裝置的鎖定畫面密碼</string>
+    <string name="pin_title">請輸入 PIN / 密碼</string>
+    <string name="reset_done">已重置為未解鎖，請重新驗證</string>
+    <string name="success_status">驗證成功 ✔ 已解鎖</string>
+    <string name="success_toast">驗證成功，已解鎖</string>
+    <string name="title">驗證測試</string>
+</resources>

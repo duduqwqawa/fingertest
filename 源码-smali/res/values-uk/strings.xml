@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Тест відбитка пальця</string>
+    <string name="btn_fingerprint">Відбиток пальця</string>
+    <string name="btn_pin">Ввести PIN / пароль</string>
+    <string name="btn_reset">Скинути (повернути до блокування)</string>
+    <string name="cancel">Скасувати</string>
+    <string name="cancelled">Скасовано</string>
+    <string name="fail_status">Перевірка не вдалася: %1$s</string>
+    <string name="fail_toast">Помилка: %1$s</string>
+    <string name="fp_desc">Тільки відбиток, без PIN</string>
+    <string name="fp_hw_unavailable">Сканер відбитків тимчасово недоступний, спробуйте пізніше</string>
+    <string name="fp_no_enroll">Відбиток не зареєстровано. Спочатку зареєструйте його в налаштуваннях</string>
+    <string name="fp_no_hw">Цей пристрій не має сканера відбитків</string>
+    <string name="fp_prompt_shown">Вікно відбитка показано, прикладіть палець до сканера</string>
+    <string name="fp_subtitle">Прикладіть палець до сканера відбитків</string>
+    <string name="fp_title">Перевірка відбитка</string>
+    <string name="fp_unavailable">Відбиток недоступний (код помилки %1$d)</string>
+    <string name="hint">Виберіть спосіб, система покаже відповідне вікно</string>
+    <string name="no_fp_support">Цей пристрій не підтримує розпізнавання відбитків</string>
+    <string name="no_lock_msg">PIN / пароль екрана блокування не встановлено. Деякі пристрої не дозволяють встановлювати пароль блокування. Перевірте в системних налаштуваннях, чи можна його встановити</string>
+    <string name="not_match">Відбиток не збігся, спробуйте ще раз</string>
+    <string name="pin_desc">Тільки PIN / пароль / графічний ключ, без відбитка</string>
+    <string name="pin_prompt_shown">Вікно PIN / пароля показано</string>
+    <string name="pin_subtitle">Використати пароль екрана блокування</string>
+    <string name="pin_title">Введіть PIN / пароль</string>
+    <string name="reset_done">Скинуто до блокування. Перевірте ще раз</string>
+    <string name="success_status">Перевірку успішно ✔ Розблоковано</string>
+    <string name="success_toast">Перевірка успішна, розблоковано</string>
+    <string name="title">Тест перевірки</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">اختبار بصمة الإصبع</string>
+    <string name="btn_fingerprint">بصمة الإصبع</string>
+    <string name="btn_pin">أدخل رقم التعريف الشخصي / كلمة المرور</string>
+    <string name="btn_reset">إعادة الضبط (العودة إلى القفل)</string>
+    <string name="cancel">إلغاء</string>
+    <string name="cancelled">تم الإلغاء</string>
+    <string name="fail_status">فشل التحقق: %1$s</string>
+    <string name="fail_toast">فشل: %1$s</string>
+    <string name="fp_desc">بصمة فقط، بدون رقم التعريف</string>
+    <string name="fp_hw_unavailable">مستشعر بصمة الإصبع غير متاح مؤقتاً، حاول لاحقاً</string>
+    <string name="fp_no_enroll">لا توجد بصمة مسجلة. يرجى تسجيلها أولاً في الإعدادات</string>
+    <string name="fp_no_hw">لا يحتوي هذا الجهاز على مستشعر بصمة</string>
+    <string name="fp_prompt_shown">تم عرض نافذة البصمة، ضع إصبعك على المستشعر</string>
+    <string name="fp_subtitle">ضع إصبعك على مستشعر بصمة الإصبع</string>
+    <string name="fp_title">التحقق ببصمة الإصبع</string>
+    <string name="fp_unavailable">بصمة الإصبع غير متاحة (رمز الخطأ %1$d)</string>
+    <string name="hint">اختر طريقة، سيعرض النظام النافذة المناسبة</string>
+    <string name="no_fp_support">هذا الجهاز لا يدعم التعرف على بصمة الإصبع</string>
+    <string name="no_lock_msg">لم يتم تعيين رقم تعريف / كلمة مرور لشاشة القفل. بعض الأجهزة لا تسمح بتعيين كلمة مرور القفل. يرجى التحقق في إعدادات النظام من إمكانية تعيينها</string>
+    <string name="not_match">بصمة الإصبع غير مطابقة، حاول مرة أخرى</string>
+    <string name="pin_desc">رقم التعريف / كلمة المرور / النمط فقط، بدون بصمة</string>
+    <string name="pin_prompt_shown">تم عرض نافذة رقم التعريف / كلمة المرور</string>
+    <string name="pin_subtitle">استخدم كلمة مرور شاشة القفل</string>
+    <string name="pin_title">أدخل رقم التعريف الشخصي / كلمة المرور</string>
+    <string name="reset_done">تمت إعادة الضبط إلى القفل. يرجى التحقق مرة أخرى</string>
+    <string name="success_status">نجح التحقق ✔ تم فتح القفل</string>
+    <string name="success_toast">نجح التحقق، تم فتح القفل</string>
+    <string name="title">اختبار التحقق</string>
+</resources>

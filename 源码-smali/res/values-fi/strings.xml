@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sormenjälkitesti</string>
+    <string name="btn_fingerprint">Sormenjälki</string>
+    <string name="btn_pin">Syötä PIN / salasana</string>
+    <string name="btn_reset">Nollaa (takaisin lukittuun)</string>
+    <string name="cancel">Peruuta</string>
+    <string name="cancelled">Peruutettu</string>
+    <string name="fail_status">Vahvistus epäonnistui: %1$s</string>
+    <string name="fail_toast">Epäonnistui: %1$s</string>
+    <string name="fp_desc">Vain sormenjälki, ei PIN-koodia</string>
+    <string name="fp_hw_unavailable">Sormenjälkilaitteisto ei tilapäisesti käytettävissä, yritä myöhemmin uudelleen</string>
+    <string name="fp_no_enroll">Ei rekisteröityä sormenjälkeä. Rekisteröi ensin asetuksissa</string>
+    <string name="fp_no_hw">Tässä laitteessa ei ole sormenjälkilaitteistoa</string>
+    <string name="fp_prompt_shown">Sormenjälki-ikkuna näytetty, aseta sormi tunnistimelle</string>
+    <string name="fp_subtitle">Aseta sormesi sormenjälkitunnistimelle</string>
+    <string name="fp_title">Sormenjäljen vahvistus</string>
+    <string name="fp_unavailable">Sormenjälki ei käytettävissä (virhekoodi %1$d)</string>
+    <string name="hint">Valitse menetelmä, järjestelmä näyttää vastaavan ikkunan</string>
+    <string name="no_fp_support">Tämä laite ei tue sormenjälkitunnistusta</string>
+    <string name="no_lock_msg">Lukituksen PIN / salasanaa ei ole asetettu. Jotkin laitteet eivät salli lukitussalasanan asettamista. Tarkista järjestelmän asetuksista, voiko sen asettaa</string>
+    <string name="not_match">Sormenjälki ei täsmää, yritä uudelleen</string>
+    <string name="pin_desc">Vain PIN / salasana / kuvio, ei sormenjälkeä</string>
+    <string name="pin_prompt_shown">PIN / salasana -ikkuna näytetty</string>
+    <string name="pin_subtitle">Käytä laitteen lukitusnäytön salasanaa</string>
+    <string name="pin_title">Syötä PIN / salasana</string>
+    <string name="reset_done">Nollattu lukittuun. Vahvista uudelleen</string>
+    <string name="success_status">Vahvistus onnistui ✔ Avattu</string>
+    <string name="success_toast">Vahvistus onnistui, avattu</string>
+    <string name="title">Vahvistustesti</string>
+</resources>

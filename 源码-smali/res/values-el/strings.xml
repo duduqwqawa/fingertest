@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Δοκιμή δακτυλικού αποτυπώματος</string>
+    <string name="btn_fingerprint">Δακτυλικό αποτύπωμα</string>
+    <string name="btn_pin">Εισαγωγή PIN / κωδικού</string>
+    <string name="btn_reset">Επαναφορά (πίσω στο κλείδωμα)</string>
+    <string name="cancel">Ακύρωση</string>
+    <string name="cancelled">Ακυρώθηκε</string>
+    <string name="fail_status">Η επαλήθευση απέτυχε: %1$s</string>
+    <string name="fail_toast">Απέτυχε: %1$s</string>
+    <string name="fp_desc">Μόνο αποτύπωμα, χωρίς PIN</string>
+    <string name="fp_hw_unavailable">Ο αισθητήρας αποτυπωμάτων είναι προσωρινά μη διαθέσιμος, δοκιμάστε αργότερα</string>
+    <string name="fp_no_enroll">Δεν έχει καταχωριστεί αποτύπωμα. Καταχωρίστε πρώτα ένα στις ρυθμίσεις</string>
+    <string name="fp_no_hw">Αυτή η συσκευή δεν διαθέτει αισθητήρα αποτυπωμάτων</string>
+    <string name="fp_prompt_shown">Το παράθυρο αποτυπώματος εμφανίστηκε, τοποθετήστε το δάχτυλό σας στον αισθητήρα</string>
+    <string name="fp_subtitle">Τοποθετήστε το δάχτυλό σας στον αισθητήρα αποτυπωμάτων</string>
+    <string name="fp_title">Επαλήθευση δακτυλικού αποτυπώματος</string>
+    <string name="fp_unavailable">Αποτύπωμα μη διαθέσιμο (κωδικός σφάλματος %1$d)</string>
+    <string name="hint">Επιλέξτε μια μέθοδο, το σύστημα θα εμφανίσει το αντίστοιχο παράθυρο</string>
+    <string name="no_fp_support">Αυτή η συσκευή δεν υποστηρίζει αναγνώριση δακτυλικών αποτυπωμάτων</string>
+    <string name="no_lock_msg">Δεν έχει οριστεί PIN / κωδικός οθόνης κλειδώματος. Ορισμένες συσκευές δεν επιτρέπουν τον ορισμό κωδικού κλειδώματος. Ελέγξτε στις ρυθμίσεις συστήματος αν μπορεί να οριστεί</string>
+    <string name="not_match">Το αποτύπωμα δεν ταιριάζει, δοκιμάστε ξανά</string>
+    <string name="pin_desc">Μόνο PIN / κωδικός / μοτίβο, χωρίς αποτύπωμα</string>
+    <string name="pin_prompt_shown">Το παράθυρο PIN / κωδικού εμφανίστηκε</string>
+    <string name="pin_subtitle">Χρήση κωδικού οθόνης κλειδώματος</string>
+    <string name="pin_title">Εισαγάγετε PIN / κωδικό</string>
+    <string name="reset_done">Επαναφορά σε κλειδωμένο. Επαληθεύστε ξανά</string>
+    <string name="success_status">Επιτυχής επαλήθευση ✔ Ξεκλειδώθηκε</string>
+    <string name="success_toast">Επιτυχής επαλήθευση, ξεκλειδώθηκε</string>
+    <string name="title">Δοκιμή επαλήθευσης</string>
+</resources>

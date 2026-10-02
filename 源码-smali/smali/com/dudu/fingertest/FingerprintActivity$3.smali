@@ -1,4 +1,4 @@
-.class Lcom/dudu/fingertest/FingerprintActivity$1;
+.class Lcom/dudu/fingertest/FingerprintActivity$3;
 .super Ljava/lang/Object;
 .source "FingerprintActivity.java"
 
@@ -25,8 +25,8 @@
 .method constructor <init>(Lcom/dudu/fingertest/FingerprintActivity;)V
     .locals 0
 
-    .line 91
-    iput-object p1, p0, Lcom/dudu/fingertest/FingerprintActivity$1;->this$0:Lcom/dudu/fingertest/FingerprintActivity;
+    .line 113
+    iput-object p1, p0, Lcom/dudu/fingertest/FingerprintActivity$3;->this$0:Lcom/dudu/fingertest/FingerprintActivity;
 
     invoke-direct {p0}, Ljava/lang/Object;-><init>()V
 
@@ -38,10 +38,10 @@
 .method public onClick(Landroid/view/View;)V
     .locals 0
 
-    .line 94
-    iget-object p0, p0, Lcom/dudu/fingertest/FingerprintActivity$1;->this$0:Lcom/dudu/fingertest/FingerprintActivity;
+    .line 116
+    iget-object p0, p0, Lcom/dudu/fingertest/FingerprintActivity$3;->this$0:Lcom/dudu/fingertest/FingerprintActivity;
 
-    invoke-static {p0}, Lcom/dudu/fingertest/FingerprintActivity;->access$2(Lcom/dudu/fingertest/FingerprintActivity;)V
+    invoke-static {p0}, Lcom/dudu/fingertest/FingerprintActivity;->access$4(Lcom/dudu/fingertest/FingerprintActivity;)V
 
     return-void
 .end method

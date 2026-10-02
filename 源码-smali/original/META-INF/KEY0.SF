@@ -1,10 +1,10 @@
 Signature-Version: 1.0
 Created-By: 1.0 (Android)
-SHA-256-Digest-Manifest: u3+l5eOxV4NQmll3LRXjJL6CutYiFI6ugLlIw/i3V4Y=
+SHA-256-Digest-Manifest: P1djHC7I8tDtPaiRMyef2BB4aN1v+5CHlIO2zovzTJ8=
 X-Android-APK-Signed: 2, 3
 
 Name: AndroidManifest.xml
-SHA-256-Digest: llbE2GOSWWQC/2+fxli6kDAITETWPsUvDcWGomOFtQ4=
+SHA-256-Digest: ldtL8LGGq8gLnxw15V3QpoKkV2YTu/fOp03+qv9Znno=
 
 Name: assets/lock.mp3
 SHA-256-Digest: oQGcDENU5W+R/IEJl4AHJEhg388ggiB91yvEX16batY=
@@ -13,5 +13,8 @@ Name: assets/unlock.mp3
 SHA-256-Digest: Yjzmhq+kF4QCqWA9k09wizx/CjOD87LZKxLoDlMoDX0=
 
 Name: classes.dex
-SHA-256-Digest: onyEd8fRfBp/OUhMpB8kkaV2Rs5GUZQcQ4W/Z7qZzNI=
+SHA-256-Digest: SU1twpLYLla3lH+R28MX8uzqNQeUyTYtDaEHHrSd7wY=
+
+Name: resources.arsc
+SHA-256-Digest: Pq4JUbmY8KlE3j1bwQN/VJHQgsL5hxD1ODRuXGX2KKM=
 

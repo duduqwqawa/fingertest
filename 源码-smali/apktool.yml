@@ -1,5 +1,5 @@
 version: 2.9.3
-apkFileName: b95a7639355f4d63ad0a52e63d939f1d.apk
+apkFileName: 指纹测试-v1.11.apk
 isFrameworkApk: false
 usesFramework:
   ids:
@@ -9,13 +9,13 @@ sdkInfo:
   minSdkVersion: 23
   targetSdkVersion: 36
 packageInfo:
-  forcedPackageId: null
+  forcedPackageId: 127
   renameManifestPackage: null
 versionInfo:
-  versionCode: 11
-  versionName: 1.10
+  versionCode: 12
+  versionName: 1.11
 resourcesAreCompressed: false
 sharedLibrary: false
-sparseResources: true
+sparseResources: false
 doNotCompress:
 - mp3

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">בדיקת טביעת אצבע</string>
+    <string name="btn_fingerprint">טביעת אצבע</string>
+    <string name="btn_pin">הזן PIN / סיסמה</string>
+    <string name="btn_reset">איפוס (חזרה לנעול)</string>
+    <string name="cancel">ביטול</string>
+    <string name="cancelled">בוטל</string>
+    <string name="fail_status">האימות נכשל: %1$s</string>
+    <string name="fail_toast">נכשל: %1$s</string>
+    <string name="fp_desc">טביעת אצבע בלבד, ללא PIN</string>
+    <string name="fp_hw_unavailable">חיישן טביעת האצבע אינו זמין זמנית, נסה שוב מאוחר יותר</string>
+    <string name="fp_no_enroll">לא נרשמה טביעת אצבע. הירשם תחילה בהגדרות</string>
+    <string name="fp_no_hw">למכשיר זה אין חיישן טביעת אצבע</string>
+    <string name="fp_prompt_shown">חלון טביעת האצבע הוצג, הנח את האצבע על החיישן</string>
+    <string name="fp_subtitle">הנח את האצבע על חיישן טביעת האצבע</string>
+    <string name="fp_title">אימות טביעת אצבע</string>
+    <string name="fp_unavailable">טביעת אצבע לא זמינה (קוד שגיאה %1$d)</string>
+    <string name="hint">בחר שיטה, המערכת תציג את החלון המתאים</string>
+    <string name="no_fp_support">מכשיר זה אינו תומך בזיהוי טביעת אצבע</string>
+    <string name="no_lock_msg">לא הוגדר PIN / סיסמה למסך הנעילה. חלק מהמכשירים אינם מאפשרים הגדרת סיסמת נעילה. בדוק בהגדרות המערכת אם ניתן להגדיר</string>
+    <string name="not_match">טביעת האצבע אינה תואמת, נסה שוב</string>
+    <string name="pin_desc">רק PIN / סיסמה / תבנית, ללא טביעת אצבע</string>
+    <string name="pin_prompt_shown">חלון PIN / סיסמה הוצג</string>
+    <string name="pin_subtitle">השתמש בסיסמת מסך הנעילה</string>
+    <string name="pin_title">הזן PIN / סיסמה</string>
+    <string name="reset_done">אופס למצב נעול. אנא אמת שוב</string>
+    <string name="success_status">האימות הצליח ✔ נפתח</string>
+    <string name="success_toast">האימות הצליח, המסך נפתח</string>
+    <string name="title">מבחן אימות</string>
+</resources>

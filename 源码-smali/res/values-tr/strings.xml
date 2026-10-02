@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Parmak İzi Testi</string>
+    <string name="btn_fingerprint">Parmak izi</string>
+    <string name="btn_pin">PIN / şifre gir</string>
+    <string name="btn_reset">Sıfırla (kilide geri dön)</string>
+    <string name="cancel">İptal</string>
+    <string name="cancelled">İptal edildi</string>
+    <string name="fail_status">Doğrulama başarısız: %1$s</string>
+    <string name="fail_toast">Başarısız: %1$s</string>
+    <string name="fp_desc">Sadece parmak izi, PIN yok</string>
+    <string name="fp_hw_unavailable">Parmak izi donanımı geçici olarak kullanılamıyor, daha sonra tekrar deneyin</string>
+    <string name="fp_no_enroll">Kayıtlı parmak izi yok. Önce ayarlardan kaydedin</string>
+    <string name="fp_no_hw">Bu cihazda parmak izi donanımı yok</string>
+    <string name="fp_prompt_shown">Parmak izi penceresi açıldı, parmağınızı sensöre yerleştirin</string>
+    <string name="fp_subtitle">Parmağınızı parmak izi sensörüne yerleştirin</string>
+    <string name="fp_title">Parmak izi doğrulama</string>
+    <string name="fp_unavailable">Parmak izi kullanılamıyor (hata kodu %1$d)</string>
+    <string name="hint">Bir yöntem seçin, sistem ilgili pencereyi gösterecektir</string>
+    <string name="no_fp_support">Bu cihaz parmak izi tanımayı desteklemiyor</string>
+    <string name="no_lock_msg">Kilit ekranı PIN / şifresi ayarlanmamış. Bazı cihazlar kilit şifresi ayarlamaya izin vermez. Sistem ayarlarından ayarlanıp ayarlanamayacağını kontrol edin</string>
+    <string name="not_match">Parmak izi eşleşmedi, tekrar deneyin</string>
+    <string name="pin_desc">Sadece PIN / şifre / desen, parmak izi yok</string>
+    <string name="pin_prompt_shown">PIN / şifre penceresi açıldı</string>
+    <string name="pin_subtitle">Kilit ekranı şifresini kullan</string>
+    <string name="pin_title">PIN / şifre girin</string>
+    <string name="reset_done">Kilide sıfırlandı. Lütfen tekrar doğrulayın</string>
+    <string name="success_status">Doğrulama başarılı ✔ Kilit açıldı</string>
+    <string name="success_toast">Doğrulama başarılı, kilit açıldı</string>
+    <string name="title">Doğrulama Testi</string>
+</resources>

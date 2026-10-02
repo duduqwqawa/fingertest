@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tes Sidik Jari</string>
+    <string name="btn_fingerprint">Sidik jari</string>
+    <string name="btn_pin">Masukkan PIN / kata sandi</string>
+    <string name="btn_reset">Atur ulang (kembali ke kunci)</string>
+    <string name="cancel">Batal</string>
+    <string name="cancelled">Dibatalkan</string>
+    <string name="fail_status">Verifikasi gagal: %1$s</string>
+    <string name="fail_toast">Gagal: %1$s</string>
+    <string name="fp_desc">Hanya sidik jari, tanpa PIN</string>
+    <string name="fp_hw_unavailable">Perangkat keras sidik jari tidak tersedia sementara, coba lagi nanti</string>
+    <string name="fp_no_enroll">Belum ada sidik jari terdaftar. Daftarkan dulu di pengaturan</string>
+    <string name="fp_no_hw">Perangkat ini tidak memiliki perangkat keras sidik jari</string>
+    <string name="fp_prompt_shown">Dialog sidik jari ditampilkan, letakkan jari Anda di sensor</string>
+    <string name="fp_subtitle">Tempatkan jari Anda di sensor sidik jari</string>
+    <string name="fp_title">Verifikasi sidik jari</string>
+    <string name="fp_unavailable">Sidik jari tidak tersedia (kode kesalahan %1$d)</string>
+    <string name="hint">Pilih metode, sistem akan menampilkan dialog yang sesuai</string>
+    <string name="no_fp_support">Perangkat ini tidak mendukung pengenalan sidik jari</string>
+    <string name="no_lock_msg">PIN / kata sandi layar kunci belum diatur. Beberapa perangkat tidak mengizinkan pengaturan kata sandi kunci. Periksa di pengaturan sistem apakah dapat diatur</string>
+    <string name="not_match">Sidik jari tidak cocok, coba lagi</string>
+    <string name="pin_desc">Hanya PIN / kata sandi / pola, tanpa sidik jari</string>
+    <string name="pin_prompt_shown">Dialog PIN / kata sandi ditampilkan</string>
+    <string name="pin_subtitle">Gunakan kata sandi layar kunci</string>
+    <string name="pin_title">Masukkan PIN / kata sandi</string>
+    <string name="reset_done">Diatur ulang ke terkunci. Verifikasi lagi</string>
+    <string name="success_status">Verifikasi berhasil ✔ Terbuka</string>
+    <string name="success_toast">Verifikasi berhasil, kunci terbuka</string>
+    <string name="title">Tes Verifikasi</string>
+</resources>

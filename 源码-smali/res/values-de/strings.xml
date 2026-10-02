@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fingerabdruck-Test</string>
+    <string name="btn_fingerprint">Fingerabdruck</string>
+    <string name="btn_pin">PIN / Passwort eingeben</string>
+    <string name="btn_reset">Zurücksetzen (wieder sperren)</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="cancelled">Abgebrochen</string>
+    <string name="fail_status">Verifizierung fehlgeschlagen: %1$s</string>
+    <string name="fail_toast">Fehlgeschlagen: %1$s</string>
+    <string name="fp_desc">Nur Fingerabdruck, keine PIN</string>
+    <string name="fp_hw_unavailable">Fingerabdruck-Hardware vorübergehend nicht verfügbar, bitte später erneut versuchen</string>
+    <string name="fp_no_enroll">Kein Fingerabdruck registriert. Bitte zuerst in den Einstellungen registrieren</string>
+    <string name="fp_no_hw">Dieses Gerät hat keine Fingerabdruck-Hardware</string>
+    <string name="fp_prompt_shown">Fingerabdruck-Dialog angezeigt, legen Sie Ihren Finger auf den Sensor</string>
+    <string name="fp_subtitle">Legen Sie Ihren Finger auf den Fingerabdrucksensor</string>
+    <string name="fp_title">Fingerabdruck-Verifizierung</string>
+    <string name="fp_unavailable">Fingerabdruck nicht verfügbar (Fehlercode %1$d)</string>
+    <string name="hint">Wählen Sie eine Methode, das System zeigt den passenden Dialog an</string>
+    <string name="no_fp_support">Dieses Gerät unterstützt keine Fingerabdruckerkennung</string>
+    <string name="no_lock_msg">Kein Sperrbildschirm-PIN / -Passwort festgelegt. Einige Geräte erlauben das Festlegen eines Sperrbildschirm-Passworts nicht. Bitte prüfen Sie in den Systemeinstellungen, ob es festgelegt werden kann</string>
+    <string name="not_match">Fingerabdruck stimmt nicht überein, versuchen Sie es erneut</string>
+    <string name="pin_desc">Nur PIN / Passwort / Muster, kein Fingerabdruck</string>
+    <string name="pin_prompt_shown">PIN / Passwort-Dialog angezeigt</string>
+    <string name="pin_subtitle">Geräte-Sperrbildschirm-Passwort verwenden</string>
+    <string name="pin_title">PIN / Passwort eingeben</string>
+    <string name="reset_done">Auf gesperrt zurückgesetzt. Bitte erneut verifizieren</string>
+    <string name="success_status">Verifizierung erfolgreich ✔ Entsperrt</string>
+    <string name="success_toast">Verifizierung erfolgreich, entsperrt</string>
+    <string name="title">Verifizierungstest</string>
+</resources>

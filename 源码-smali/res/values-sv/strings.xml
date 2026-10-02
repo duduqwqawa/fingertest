@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fingeravtryckstest</string>
+    <string name="btn_fingerprint">Fingeravtryck</string>
+    <string name="btn_pin">Ange PIN / lösenord</string>
+    <string name="btn_reset">Återställ (tillbaka till låst)</string>
+    <string name="cancel">Avbryt</string>
+    <string name="cancelled">Avbruten</string>
+    <string name="fail_status">Verifiering misslyckades: %1$s</string>
+    <string name="fail_toast">Misslyckades: %1$s</string>
+    <string name="fp_desc">Endast fingeravtryck, ingen PIN</string>
+    <string name="fp_hw_unavailable">Fingeravtryckshårdvaran är tillfälligt otillgänglig, försök igen senare</string>
+    <string name="fp_no_enroll">Inget fingeravtryck registrerat. Registrera ett i inställningarna först</string>
+    <string name="fp_no_hw">Den här enheten har ingen fingeravtryckshårdvara</string>
+    <string name="fp_prompt_shown">Fingeravtrycksdialog visad, placera fingret på sensorn</string>
+    <string name="fp_subtitle">Placera fingret på fingeravtryckssensorn</string>
+    <string name="fp_title">Fingeravtrycksverifiering</string>
+    <string name="fp_unavailable">Fingeravtryck ej tillgängligt (felkod %1$d)</string>
+    <string name="hint">Välj en metod, systemet visar motsvarande dialogruta</string>
+    <string name="no_fp_support">Den här enheten stöder inte fingeravtrycksigenkänning</string>
+    <string name="no_lock_msg">Inget lås-PIN / lösenord är inställt. Vissa enheter tillåter inte att ställa in låslösenord. Kontrollera i systeminställningarna om det kan ställas in</string>
+    <string name="not_match">Fingeravtrycket matchar inte, försök igen</string>
+    <string name="pin_desc">Endast PIN / lösenord / mönster, inget fingeravtryck</string>
+    <string name="pin_prompt_shown">PIN / lösenordsdialog visad</string>
+    <string name="pin_subtitle">Använd enhetens låsskärmlösenord</string>
+    <string name="pin_title">Ange PIN / lösenord</string>
+    <string name="reset_done">Återställd till låst. Verifiera igen</string>
+    <string name="success_status">Verifiering lyckades ✔ Upplåst</string>
+    <string name="success_toast">Verifiering lyckades, upplåst</string>
+    <string name="title">Verifieringstest</string>
+</resources>

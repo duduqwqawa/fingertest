@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fingeravtrykkstest</string>
+    <string name="btn_fingerprint">Fingeravtrykk</string>
+    <string name="btn_pin">Skriv inn PIN / passord</string>
+    <string name="btn_reset">Tilbakestill (tilbake til låst)</string>
+    <string name="cancel">Avbryt</string>
+    <string name="cancelled">Avbrutt</string>
+    <string name="fail_status">Verifisering mislyktes: %1$s</string>
+    <string name="fail_toast">Mislyktes: %1$s</string>
+    <string name="fp_desc">Kun fingeravtrykk, ingen PIN</string>
+    <string name="fp_hw_unavailable">Fingeravtrykkhardwaren er midlertidig utilgjengelig, prøv igjen senere</string>
+    <string name="fp_no_enroll">Ingen fingeravtrykk registrert. Registrer ett i innstillingene først</string>
+    <string name="fp_no_hw">Denne enheten har ingen fingeravtrykkhardware</string>
+    <string name="fp_prompt_shown">Fingeravtrykkdialog vist, plasser fingeren på sensoren</string>
+    <string name="fp_subtitle">Plasser fingeren på fingeravtrykkssensoren</string>
+    <string name="fp_title">Verifisering med fingeravtrykk</string>
+    <string name="fp_unavailable">Fingeravtrykk utilgjengelig (feilkode %1$d)</string>
+    <string name="hint">Velg en metode, systemet viser den tilsvarende dialogen</string>
+    <string name="no_fp_support">Denne enheten støtter ikke fingeravtrykkgjenkjenning</string>
+    <string name="no_lock_msg">Ingen lås-PIN / passord angitt. Noen enheter tillater ikke å angi låsepassord. Sjekk i systeminnstillingene om det kan angis</string>
+    <string name="not_match">Fingeravtrykket stemmer ikke, prøv igjen</string>
+    <string name="pin_desc">Kun PIN / passord / mønster, ikke fingeravtrykk</string>
+    <string name="pin_prompt_shown">PIN / passorddialog vist</string>
+    <string name="pin_subtitle">Bruk enhetens låseskjermpassord</string>
+    <string name="pin_title">Skriv inn PIN / passord</string>
+    <string name="reset_done">Tilbakestilt til låst. Verifiser igjen</string>
+    <string name="success_status">Verifisering vellykket ✔ Låst opp</string>
+    <string name="success_toast">Verifisering vellykket, låst opp</string>
+    <string name="title">Verifiseringstest</string>
+</resources>
